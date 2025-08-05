@@ -13,7 +13,7 @@ To create a finance performance dashboard using Power BI, conveying insights thr
 
 ## 📊 Dashboard Screenshot
 
-![Finance Performance Dashboard](Dashboard SS.png)
+![Finance Performance Dashboard](Dashboard.png)
 
 ## Visuals Created:
 - KPI Cards: Total Sales, Total Discount, Total Profit, Profit Margin %
