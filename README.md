@@ -6,7 +6,7 @@
 To create a finance performance dashboard using Power BI, conveying insights through effective visual storytelling.
 
 ## Dataset:
-- Finance Sales (CSV)
+- Finance dataset (CSV)
 
 ## Tools Used:
 - Power BI Desktop
