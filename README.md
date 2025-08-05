@@ -30,10 +30,10 @@ To create a finance performance dashboard using Power BI, conveying insights thr
 - Visual storytelling helps in identifying top-performing countries and products quickly.
 
 ## Files:
-- `dashboard.pbix`: Power BI file
-- `dashboard_screenshot.png`: Dashboard image
-- `dashboard_report.pdf`: Report PDF
-- `Superstore.csv`: Dataset used
+- `Task 2.pbix`: Power BI file
+- `Dashboard SS.png`: Dashboard image
+- `TASK 2 DATA ANALYST .pdf`: Task PDF
+- `Finance.csv`: Dataset used
 
 ## Submission:
 Task submitted as per guidelines.
