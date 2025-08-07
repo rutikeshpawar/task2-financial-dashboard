@@ -14,10 +14,15 @@ To create a finance performance dashboard using Power BI, conveying insights thr
 ## 📊 Visuals Screenshot
 
 ![Finance Performance Dashboard](Year_Sales_compae_with_growth.png)
+
 ![Finance Performance Dashboard](yearly_cat_wise_sales.png)
+
 ![Finance Performance Dashboard](sales_by_country_state_region_city.png)
+
 ![Finance Performance Dashboard](profitbyregion.png)
+
 ![Finance Performance Dashboard](sales_cogs_and_profitby_yqm.png)
+
 ![Finance Performance Dashboard](table.png)
 
 ## Visuals Created:
