@@ -1,49 +1,74 @@
-# Task 2 – Data Visualization & Storytelling
+# 📊 Power BI Finance & Sales Analytics Dashboard
 
-## Internship: Data Analyst Internship Task 2
+![Dashboard Preview](profitbyregion.png)
 
-## Objective:
-To create a finance performance dashboard using Power BI, conveying insights through effective visual storytelling.
+![Dashboard Preview](sales_by_country_state_region_city.png)
 
-## Dataset:
-- Finance dataset (CSV)
+![Dashboard Preview](sales_cogs_and_profitby_yqm.png)
 
-## Tools Used:
-- Power BI Desktop
+![Dashboard Preview](Year_Sales_compare_with_growth.png)
 
-## 📊 Visuals Screenshot
+![Dashboard Preview](yearly_cat_wise_sales.png)
 
-![Finance Performance Dashboard](Year_Sales_compae_with_growth.png)
+![Dashboard Preview](table.png)
 
-![Finance Performance Dashboard](yearly_cat_wise_sales.png)
 
-![Finance Performance Dashboard](sales_by_country_state_region_city.png)
+## 🔍 Project Overview
 
-![Finance Performance Dashboard](profitbyregion.png)
+This is a professional Power BI Dashboard for **Super Store, Finance and Sales Analysis**. It provides deep insights into:
+- Revenue trends
+- Cost of Goods Sold (COGS)
+- Profitability
+- Regional sales
+- Year-over-year growth
+- Category-wise performance
 
-![Finance Performance Dashboard](sales_cogs_and_profitby_yqm.png)
+The dashboard is designed for **CEO-level decision-making** with interactive navigation and KPI highlights.
 
-![Finance Performance Dashboard](table.png)
+---
 
-## Visuals Created:
-- KPI Cards: Total Sales, Total Discount, Total Profit, Profit Margin %
-- Donut Chart: Sales by Country
-- Line Chart: Sales & Profit by Month
-- Bar Chart: Profit by Product
-- Tree Map: Profit by Country
-- Slicers: Year & Country
+## 📁 Files Included
 
-## Insights:
-- The USA had the highest sales and profit contribution.
-- Profit margin overall was 14.10%.
-- Paseo product had the highest profit.
-- Visual storytelling helps in identifying top-performing countries and products quickly.
+| File Name                                | Description |
+|------------------------------------------|-------------|
+| `Finance dataset.xlsx`                   | Raw dataset used for building the dashboard |
+| `Superstore Dataset.xlsx`                | Raw dataset used for building the dashboard |
+| `profitbyregion.png`                     | Donut chart showing regional profit distribution |
+| `sales_by_country_state_region_city.png` | Map visual for geographical sales analysis |
+| `sales_cogs_and_profitby_yqm.png`        | Bar chart for sales, cost, and profit by year/quarter/month |
+| `TASK 2 DATA ANALYST.pdf`                | Task description or assignment brief |
+| `Task 2.pbix`                            | Power BI file for task 2 (analysis stage) |
+| `Year_Sales_compare_with_growth.png`     | Visual comparing sales with YoY growth |
+| `yearly_cat_wise_sales.png`              | Waterfall chart for category-wise yearly sales |
+| `table.png`                              | Conditional formatting KPI table |
 
-## Files:
-- `Task 2.pbix`: Power BI file
-- `Dashboard SS.png`: Dashboard image
-- `TASK 2 DATA ANALYST .pdf`: Task PDF
-- `Finance.csv`: Dataset used
+---
 
-## Submission:
-Task submitted as per guidelines.
+## 🛠️ Tools & Technologies Used
+
+- **Power BI Desktop**
+- **Microsoft Excel**
+- **DAX (Data Analysis Expressions)**
+- **Power Query Editor**
+- **Data Modeling**
+
+---
+
+## 📈 Dashboard Highlights
+
+- 🌍 Map Visuals: Sales by Country, State, Region, City
+- 📊 Time Series Charts: Monthly & Quarterly trends
+- 🍩 Donut Chart: Profit by Region
+- 📉 Waterfall Chart: Yearly Category-Wise Performance
+- 🟢🔴 Table: Conditional formatting to highlight profit/loss
+
+---
+
+## 🔍 Key Insights
+
+- ⚠️ Declining profit margins in specific quarters
+- 🌟 Top-performing regions and product categories
+- 📉 Areas with high COGS but low sales
+- 📈 Steady YoY growth in select categories
+
+---
